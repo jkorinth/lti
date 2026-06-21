@@ -1,0 +1,9 @@
+[submodule "lti/themes/risotto"]
+	path = lti/themes/risotto
+	url = https://github.com/joeroe/risotto
+[submodule "lti/themes/PaperMod"]
+	path = lti/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "lti/themes/hugo-theme-terminal"]
+	path = lti/themes/hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal

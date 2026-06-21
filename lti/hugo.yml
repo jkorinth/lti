@@ -1,0 +1,25 @@
+baseURL: 'https://jkorinth.github.io'
+locale: 'en-us'
+title: 'Less than Ideal'
+theme: ['hugo-theme-terminal']
+
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Waddafuk.
+  
+  socialIcons:
+    - name: "github"
+      link: "https://github.com/jkorinth"
+
+  Logo:
+    logoText: 'Less than Ideal'
+
+  CenterTheme: true
+
+markup:
+  goldmark:
+    extensions:
+      footnote: true
+
+enableEmoji: true
