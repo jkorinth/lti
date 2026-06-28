@@ -1,6 +1,6 @@
 +++
 date = '2026-06-20T23:35:17+02:00'
-draft = true
+draft = false
 title = 'What I love about Nix devShells'
 tags = [ 'nix', 'devenvs', 'qol', 'devlife' ]
 +++
